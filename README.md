@@ -31,3 +31,5 @@ The increasing demand for nickel (Ni) and cobalt (Co), fueled by the clean energ
   doi = {?},
 }
 ```
+
+## Note - Earthbyte associated group
